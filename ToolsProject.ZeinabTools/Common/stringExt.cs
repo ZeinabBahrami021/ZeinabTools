@@ -11,5 +11,7 @@ namespace ToolsProject.ZeinabTools.Common
     /// </summary>
    public static class stringExt
     {
+
     }
+
 }
